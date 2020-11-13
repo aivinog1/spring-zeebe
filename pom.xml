@@ -97,6 +97,11 @@
         <artifactId>spring-zeebe-util</artifactId>
         <version>${project.version}</version>
       </dependency>
+      <dependency>
+        <groupId>io.zeebe.spring</groupId>
+        <artifactId>reactor-zeebe</artifactId>
+        <version>${project.version}</version>
+      </dependency>
 
       <dependency>
         <groupId>io.zeebe.spring</groupId>

@@ -14,5 +14,6 @@
   <modules>
     <module>spring-zeebe</module>
     <module>spring-zeebe-starter</module>
+    <module>reactor-zeebe</module>
   </modules>
 </project>
